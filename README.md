@@ -1,6 +1,8 @@
 # BA865 - Neural Networks
 Group Project BA865
 
+![image](https://github.com/mwangcy/BA865/assets/143052952/e54536d2-dc2a-4b1a-aec7-0b8596d5b40d)
+
 # Detection of Diabetic Retinopathy through Fundus Images
 
 **Motivation:** <br>
