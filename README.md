@@ -1,9 +1,11 @@
 # BA865 - Neural Networks
 Group Project BA865
 
-![image](https://github.com/mwangcy/BA865/assets/143052952/e54536d2-dc2a-4b1a-aec7-0b8596d5b40d)
-
 # Detection of Diabetic Retinopathy through Fundus Images
+
+![image](https://github.com/mwangcy/BA865/assets/143052952/1246901e-50ba-4666-80ee-809c6b2a8319)
+
+![image](https://github.com/mwangcy/BA865/assets/143052952/e54536d2-dc2a-4b1a-aec7-0b8596d5b40d)
 
 **Motivation:** <br>
 According to the International Diabetes Federation, the occurrence of diabetes in the adult population (20-79 years) is projected to increase by 46% by the year 2045. Diabetic retinopathy is a consequential complication of diabetes, characterized by damage to the retina at the back of the eye. If left untreated, DR can lead to loss of vision, hence early detection is imperative. This is where machine learning comes in, we aim to use deep networks to identify and detect symptoms of Diabetic Retinopathy to provide necessary treatment.<br>
